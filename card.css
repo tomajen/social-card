@@ -1,0 +1,22 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.youtube-card{
+    background-color: red;
+    width: 200px;
+    padding: 30px 20px;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+}
+.fa-youtube{
+    font-size: 50px;
+}
+.youtube-btn{
+    background-color: white;
+    font-size: 12px;
+    border: none;
+    padding: 8px 20px;
+    bord
+
+}
